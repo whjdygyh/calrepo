@@ -1,0 +1,1693 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CalRepo//United Nations Fixed Observances//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:联合国固定日期纪念日
+X-WR-TIMEZONE:UTC
+X-CALREPO-SOURCE-ID:SRC-UN-FIXED-OBSERVANCES
+X-CALREPO-VERSION:2026.07.25
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250202
+DTEND;VALUE=DATE:20250203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250220
+DTEND;VALUE=DATE:20250221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250422
+DTEND;VALUE=DATE:20250423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20250921
+DTEND;VALUE=DATE:20250922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2025@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2026@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2027@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280202
+DTEND;VALUE=DATE:20280203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280211
+DTEND;VALUE=DATE:20280212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280220
+DTEND;VALUE=DATE:20280221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280308
+DTEND;VALUE=DATE:20280309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280322
+DTEND;VALUE=DATE:20280323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280407
+DTEND;VALUE=DATE:20280408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280422
+DTEND;VALUE=DATE:20280423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280503
+DTEND;VALUE=DATE:20280504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280522
+DTEND;VALUE=DATE:20280523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280812
+DTEND;VALUE=DATE:20280813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20280921
+DTEND;VALUE=DATE:20280922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20281001
+DTEND;VALUE=DATE:20281002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20281201
+DTEND;VALUE=DATE:20281202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2028@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20281210
+DTEND;VALUE=DATE:20281211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290202
+DTEND;VALUE=DATE:20290203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290211
+DTEND;VALUE=DATE:20290212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290220
+DTEND;VALUE=DATE:20290221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290308
+DTEND;VALUE=DATE:20290309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290322
+DTEND;VALUE=DATE:20290323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290407
+DTEND;VALUE=DATE:20290408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290422
+DTEND;VALUE=DATE:20290423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290503
+DTEND;VALUE=DATE:20290504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290522
+DTEND;VALUE=DATE:20290523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290605
+DTEND;VALUE=DATE:20290606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290621
+DTEND;VALUE=DATE:20290622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290730
+DTEND;VALUE=DATE:20290731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290812
+DTEND;VALUE=DATE:20290813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20290921
+DTEND;VALUE=DATE:20290922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20291001
+DTEND;VALUE=DATE:20291002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20291201
+DTEND;VALUE=DATE:20291202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2029@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20291210
+DTEND;VALUE=DATE:20291211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300211
+DTEND;VALUE=DATE:20300212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300220
+DTEND;VALUE=DATE:20300221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300308
+DTEND;VALUE=DATE:20300309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300322
+DTEND;VALUE=DATE:20300323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300407
+DTEND;VALUE=DATE:20300408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300503
+DTEND;VALUE=DATE:20300504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300522
+DTEND;VALUE=DATE:20300523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300605
+DTEND;VALUE=DATE:20300606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300730
+DTEND;VALUE=DATE:20300731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300812
+DTEND;VALUE=DATE:20300813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20300921
+DTEND;VALUE=DATE:20300922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20301001
+DTEND;VALUE=DATE:20301002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20301201
+DTEND;VALUE=DATE:20301202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2030@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20301210
+DTEND;VALUE=DATE:20301211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310202
+DTEND;VALUE=DATE:20310203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310211
+DTEND;VALUE=DATE:20310212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310220
+DTEND;VALUE=DATE:20310221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310308
+DTEND;VALUE=DATE:20310309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310322
+DTEND;VALUE=DATE:20310323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310407
+DTEND;VALUE=DATE:20310408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310422
+DTEND;VALUE=DATE:20310423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310503
+DTEND;VALUE=DATE:20310504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310605
+DTEND;VALUE=DATE:20310606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310621
+DTEND;VALUE=DATE:20310622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310730
+DTEND;VALUE=DATE:20310731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310812
+DTEND;VALUE=DATE:20310813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20310921
+DTEND;VALUE=DATE:20310922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20311001
+DTEND;VALUE=DATE:20311002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20311201
+DTEND;VALUE=DATE:20311202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2031@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20311210
+DTEND;VALUE=DATE:20311211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320202
+DTEND;VALUE=DATE:20320203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320211
+DTEND;VALUE=DATE:20320212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320220
+DTEND;VALUE=DATE:20320221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320308
+DTEND;VALUE=DATE:20320309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320322
+DTEND;VALUE=DATE:20320323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320407
+DTEND;VALUE=DATE:20320408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320422
+DTEND;VALUE=DATE:20320423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320503
+DTEND;VALUE=DATE:20320504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320522
+DTEND;VALUE=DATE:20320523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320605
+DTEND;VALUE=DATE:20320606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320621
+DTEND;VALUE=DATE:20320622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320730
+DTEND;VALUE=DATE:20320731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320812
+DTEND;VALUE=DATE:20320813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20320921
+DTEND;VALUE=DATE:20320922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20321001
+DTEND;VALUE=DATE:20321002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20321201
+DTEND;VALUE=DATE:20321202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2032@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20321210
+DTEND;VALUE=DATE:20321211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330202
+DTEND;VALUE=DATE:20330203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330211
+DTEND;VALUE=DATE:20330212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330220
+DTEND;VALUE=DATE:20330221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330308
+DTEND;VALUE=DATE:20330309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330322
+DTEND;VALUE=DATE:20330323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330407
+DTEND;VALUE=DATE:20330408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330422
+DTEND;VALUE=DATE:20330423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330503
+DTEND;VALUE=DATE:20330504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330522
+DTEND;VALUE=DATE:20330523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330605
+DTEND;VALUE=DATE:20330606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330621
+DTEND;VALUE=DATE:20330622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330730
+DTEND;VALUE=DATE:20330731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330812
+DTEND;VALUE=DATE:20330813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20330921
+DTEND;VALUE=DATE:20330922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20331001
+DTEND;VALUE=DATE:20331002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20331201
+DTEND;VALUE=DATE:20331202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2033@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20331210
+DTEND;VALUE=DATE:20331211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340202
+DTEND;VALUE=DATE:20340203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340211
+DTEND;VALUE=DATE:20340212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340220
+DTEND;VALUE=DATE:20340221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340308
+DTEND;VALUE=DATE:20340309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340322
+DTEND;VALUE=DATE:20340323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340407
+DTEND;VALUE=DATE:20340408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340422
+DTEND;VALUE=DATE:20340423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340503
+DTEND;VALUE=DATE:20340504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340522
+DTEND;VALUE=DATE:20340523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340605
+DTEND;VALUE=DATE:20340606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340621
+DTEND;VALUE=DATE:20340622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340730
+DTEND;VALUE=DATE:20340731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340812
+DTEND;VALUE=DATE:20340813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20340921
+DTEND;VALUE=DATE:20340922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20341001
+DTEND;VALUE=DATE:20341002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20341201
+DTEND;VALUE=DATE:20341202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2034@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20341210
+DTEND;VALUE=DATE:20341211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0202.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350202
+DTEND;VALUE=DATE:20350203
+SUMMARY:世界湿地日 | World Wetlands Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0211.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350211
+DTEND;VALUE=DATE:20350212
+SUMMARY:妇女和女童参与科学国际日 | International Day of Women and Girls in Science
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0220.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350220
+DTEND;VALUE=DATE:20350221
+SUMMARY:世界社会公正日 | World Day of Social Justice
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0308.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350308
+DTEND;VALUE=DATE:20350309
+SUMMARY:国际妇女节 | International Women's Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0322.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350322
+DTEND;VALUE=DATE:20350323
+SUMMARY:世界水日 | World Water Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0407.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350407
+DTEND;VALUE=DATE:20350408
+SUMMARY:世界卫生日 | World Health Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0422.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350422
+DTEND;VALUE=DATE:20350423
+SUMMARY:国际地球母亲日 | International Mother Earth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0503.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350503
+DTEND;VALUE=DATE:20350504
+SUMMARY:世界新闻自由日 | World Press Freedom Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0522.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350522
+DTEND;VALUE=DATE:20350523
+SUMMARY:国际生物多样性日 | International Day for Biological Diversity
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0605.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350605
+DTEND;VALUE=DATE:20350606
+SUMMARY:世界环境日 | World Environment Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0621.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350621
+DTEND;VALUE=DATE:20350622
+SUMMARY:国际瑜伽日 | International Day of Yoga
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0730.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350730
+DTEND;VALUE=DATE:20350731
+SUMMARY:国际友谊日 | International Day of Friendship
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0812.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350812
+DTEND;VALUE=DATE:20350813
+SUMMARY:国际青年日 | International Youth Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.0921.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20350921
+DTEND;VALUE=DATE:20350922
+SUMMARY:国际和平日 | International Day of Peace
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1001.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20351001
+DTEND;VALUE=DATE:20351002
+SUMMARY:国际老年人日 | International Day of Older Persons
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1201.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20351201
+DTEND;VALUE=DATE:20351202
+SUMMARY:世界艾滋病日 | World AIDS Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.un.fixed.1210.2035@calrepo.com
+DTSTAMP:20260725T120000Z
+DTSTART;VALUE=DATE:20351210
+DTEND;VALUE=DATE:20351211
+SUMMARY:人权日 | Human Rights Day
+DESCRIPTION:United Nations fixed-date observance. Excludes variable-date observances, international weeks, and international years.
+CATEGORIES:United Nations observance
+END:VEVENT
+END:VCALENDAR

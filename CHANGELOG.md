@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-07-25 - v1 Religious And UN Sources
+
+- Published Han Buddhist core observances and Daoist core observances for 2025-2035.
+- Published the first 17 reviewed fixed-date United Nations observances for 2025-2035.
+- Published the complete General Roman Calendar for 2025-2035, combining annual liturgies and universal fixed observances.
+- Added source pages, stable event UIDs, strict CRLF output, all-day end dates, and Excel baseline records for all four sources.
+
 ## 2026-07-25 - v1 China Sources
 
 - Published `SRC-CN-24-SOLAR-TERMS` at `/ical/v1/cn/solar-terms/zh-CN.ics`.

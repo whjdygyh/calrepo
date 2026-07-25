@@ -10,9 +10,11 @@
 | --- | --- | --- | --- | --- |
 | `SRC-CN-24-SOLAR-TERMS` | China; 24 solar terms on the China Standard Time calendar date | CalRepo rule baseline | `scripts/generate-solar-terms.py` | Public: `/ical/v1/cn/solar-terms/zh-CN.ics` |
 | `SRC-CN-TRADITIONAL-PUBLIC` | China mainland general scope; traditional festivals, public holidays and selected national observances | CalRepo rule baseline | `scripts/generate-china-traditional-public.ps1` | Public: `/ical/v1/cn/traditional-public/zh-CN.ics` |
-| `SRC-BUDDHIST-HAN` | Han Buddhist traditions in China and overseas Chinese communities | `calrepo://cn/han-buddhism` | KeepOn `src/religious_calendars.py` plus Chinese lunar conversion | Internal only |
-| `SRC-TAOIST` | Daoist traditions in China; schools and temples may differ | `calrepo://cn/taoism` | KeepOn `src/religious_calendars.py` plus Chinese lunar conversion | Internal only |
+| `SRC-BUDDHIST-HAN` | Han Buddhist traditions in China and overseas Chinese communities | 6tail lunar-csharp MIT rule reference | `scripts/generate-chinese-religious.ps1` | Public: `/ical/v1/religion/han-buddhism/zh-CN.ics` |
+| `SRC-TAOIST` | Daoist traditions in China; schools and temples may differ | 6tail lunar-csharp MIT rule reference | `scripts/generate-chinese-religious.ps1` | Public: `/ical/v1/religion/taoism/zh-CN.ics` |
+| `SRC-UN-FIXED-OBSERVANCES` | First 17 reviewed fixed-date observances from the United Nations directory | United Nations official directory | `scripts/generate-un-fixed-observances.py` | Public: `/ical/v1/global/un-fixed-observances/zh-CN.ics` |
 | `SRC-UN-OBSERVANCES` | All international days and weeks listed by the United Nations; each date rule is reviewed before release | Pending editorial rule audit | CalRepo workbook `节日总表` | Data-review stage |
+| `SRC-CATHOLIC` | General Roman Rite; annual liturgies and universal fixed observances | Liturgical Calendar API, Apache-2.0 | `scripts/generate-catholic-general-roman.py` | Public: `/ical/v1/religion/catholic-general-roman/en.ics` |
 | `SRC-WORLD-SECULAR-CULTURE` | Widely observed secular cultural dates; excludes United Nations observances and statutory holidays | Pending editorial rule audit | CalRepo workbook `节日总表` | Data-review stage |
 | `SRC-WORLD-PROFESSIONAL-INTEREST` | Professional and interest-community dates with a traceable origin page | Pending editorial rule audit | CalRepo workbook `节日总表` | Data-review stage |
 | `SRC-WORLD-COMMERCIAL` | Retail promotion dates; clearly labelled as commercial, not statutory holidays | Pending editorial rule audit | CalRepo workbook `节日总表` | Data-review stage |
@@ -41,6 +43,14 @@ The three global non-UN sources are deliberately separate: secular culture, prof
 | United Nations list and title review | Annually after the official list is reviewed | Official date, title, or scope change |
 
 KeepOn may generate local events at startup or manual refresh. This is regeneration of stable rules, not a claim of daily external data updates.
+
+## Religious And UN Public Releases
+
+The Han Buddhist source contains 22 core dates and the Daoist source contains 16 core dates. Both use the .NET `ChineseLunisolarCalendar` over `Asia/Shanghai`, are released for 2025-2035, and skip a lunar day thirty when that lunar month has only twenty-nine days. They are not universal Buddhist or Daoist calendars.
+
+The United Nations source is deliberately narrower than the complete UN directory: it contains only 17 reviewed, fixed Gregorian dates. Variable-date observances, international weeks and international years remain in `SRC-UN-OBSERVANCES` research and must not enter the fixed-date subscription without individual rule review.
+
+The General Roman Calendar is generated for 2025-2035 from annual Liturgical Calendar API data plus Apache-2.0 universal fixed-observance data. It retains both an annual liturgy and a same-day universal fixed observance, for example the 27th Sunday in Ordinary Time and Saint Francis of Assisi on 2026-10-04. English titles are retained until a human-reviewed Catholic Chinese translation set exists.
 
 ## China Public Releases
 
