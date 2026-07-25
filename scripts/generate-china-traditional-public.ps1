@@ -94,10 +94,11 @@ $lines = @(
     "X-WR-CALNAME:$calendarName",'X-WR-TIMEZONE:Asia/Shanghai','X-CALREPO-SOURCE-ID:SRC-CN-TRADITIONAL-PUBLIC','X-CALREPO-VERSION:2026.07.25'
 )
 foreach ($event in ($events | Sort-Object Date, Summary)) {
-    $lines += @('BEGIN:VEVENT',"UID:$($event.Uid)",'DTSTAMP:20260725T080000Z',"DTSTART;VALUE=DATE:$($event.Date.Replace('-', ''))", "SUMMARY:$(Escape-Ics $event.Summary)", "DESCRIPTION:$(Escape-Ics $event.Description)", "CATEGORIES:$(Escape-Ics $event.Category)",'END:VEVENT')
+    $endDate = ([datetime]::ParseExact($event.Date, 'yyyy-MM-dd', $null)).AddDays(1).ToString('yyyyMMdd')
+    $lines += @('BEGIN:VEVENT',"UID:$($event.Uid)",'DTSTAMP:20260725T080000Z',"DTSTART;VALUE=DATE:$($event.Date.Replace('-', ''))","DTEND;VALUE=DATE:$endDate", "SUMMARY:$(Escape-Ics $event.Summary)", "DESCRIPTION:$(Escape-Ics $event.Description)", "CATEGORIES:$(Escape-Ics $event.Category)",'END:VEVENT')
 }
 $lines += 'END:VCALENDAR'
 $outputDirectory = Split-Path -Parent $outputPath
 [IO.Directory]::CreateDirectory($outputDirectory) | Out-Null
-[IO.File]::WriteAllText($outputPath, ($lines -join "`r`n") + "`r`n", [Text.UTF8Encoding]::new($false))
+[IO.File]::WriteAllBytes($outputPath, [Text.UTF8Encoding]::new($false).GetBytes(($lines -join "`r`n") + "`r`n"))
 Write-Output "generated $($events.Count) events: $outputPath"

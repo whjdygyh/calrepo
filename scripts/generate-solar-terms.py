@@ -80,7 +80,7 @@ def main() -> None:
     all_terms = [term | {"year": year} for year in range(args.start_year, args.end_year + 1) for term in solar_terms_for_year(year)]
     events = [{"uid": f"calrepo.cn.solar-terms.{term['date']}@calrepo.com", "date": str(term["date"]), "summary": f"{term['name_zh']} | {term['name_en']}", "description": f"中国二十四节气；太阳黄经 {term['longitude']}°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.", "category": "中国二十四节气"} for term in all_terms]
     args.output.parent.mkdir(parents=True, exist_ok=True)
-    args.output.write_text(build_ics(events), encoding="utf-8")
+    args.output.write_bytes(build_ics(events).encode("utf-8"))
     args.json_output.parent.mkdir(parents=True, exist_ok=True)
     args.json_output.write_text(json.dumps(all_terms, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"generated {len(events)} solar-term events: {args.output}")
