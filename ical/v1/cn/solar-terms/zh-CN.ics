@@ -1,0 +1,2122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CalRepo//China Calendar Sources//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中国二十四节气
+X-WR-TIMEZONE:Asia/Shanghai
+X-CALREPO-SOURCE-ID:SRC-CN-24-SOLAR-TERMS
+X-CALREPO-VERSION:2026.07.25
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-02-03@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250203
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-02-18@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250218
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-03-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250305
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-03-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250320
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-04-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250404
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-06-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250605
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-07-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250722
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-09-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250907
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20250923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20251008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20251023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20251107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20251122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20251207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2025-12-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20251221
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-02-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260204
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-02-18@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260218
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-03-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260305
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-03-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260320
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-04-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260405
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-06-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260605
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-07-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260723
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-09-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260907
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20260923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20261008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20261023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2026-12-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20261222
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-02-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270204
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-02-19@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270219
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-03-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-03-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-04-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270405
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-05-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270506
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-06-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270606
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-07-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270723
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-08-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270808
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-09-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270908
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20270923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20271008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20271023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20271107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20271122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20271207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2027-12-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20271222
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-01-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280106
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-02-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280204
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-02-19@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280219
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-03-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280305
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-03-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280320
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-04-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280404
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-04-19@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280419
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-05-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280520
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-06-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280605
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-07-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280706
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-07-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280722
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-08-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280822
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-09-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280907
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-09-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20280922
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20281008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20281023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20281107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20281122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-12-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20281206
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2028-12-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20281221
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-02-03@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290203
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-02-18@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290218
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-03-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290305
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-03-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290320
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-04-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290404
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-06-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290605
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-07-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290722
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-09-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290907
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20290923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20291008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20291023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20291107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20291122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20291207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2029-12-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20291221
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-02-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300204
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-02-18@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300218
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-03-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300305
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-03-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300320
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-04-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300405
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-06-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300605
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-07-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300723
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-09-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300907
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20300923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20301008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20301023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20301107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20301122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20301207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2030-12-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20301222
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-02-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310204
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-02-19@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310219
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-03-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310306
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-03-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310321
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-04-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310405
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-05-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310506
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-06-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310606
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-07-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310723
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-08-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310808
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-09-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310908
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20310923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20311008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20311023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20311107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20311122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20311207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2031-12-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20311222
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-01-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320106
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-02-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320204
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-02-19@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320219
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-03-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320305
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-03-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320320
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-04-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320404
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-04-19@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320419
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-05-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320520
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-06-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320605
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-07-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320706
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-07-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320722
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-08-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320822
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-09-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320907
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-09-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20320922
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20321008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20321023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20321107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20321122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-12-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20321206
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2032-12-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20321221
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-02-03@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330203
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-02-18@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330218
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-03-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330305
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-03-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330320
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-04-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330404
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-06-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330605
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-07-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330722
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-09-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330907
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20330923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20331008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20331023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20331107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20331122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20331207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2033-12-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20331221
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-02-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340204
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-02-18@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340218
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-03-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340305
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-03-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340320
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-04-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340405
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-06-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340605
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-07-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340723
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-09-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340907
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20340923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20341008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20341023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20341107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20341122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20341207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2034-12-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20341222
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-01-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350105
+SUMMARY:小寒 | Minor Cold
+DESCRIPTION:中国二十四节气；太阳黄经 285°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-01-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350120
+SUMMARY:大寒 | Major Cold
+DESCRIPTION:中国二十四节气；太阳黄经 300°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-02-04@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350204
+SUMMARY:立春 | Start of Spring
+DESCRIPTION:中国二十四节气；太阳黄经 315°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-02-19@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350219
+SUMMARY:雨水 | Rain Water
+DESCRIPTION:中国二十四节气；太阳黄经 330°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-03-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350306
+SUMMARY:惊蛰 | Awakening of Insects
+DESCRIPTION:中国二十四节气；太阳黄经 345°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-03-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350321
+SUMMARY:春分 | Spring Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 0°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-04-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350405
+SUMMARY:清明 | Clear and Bright
+DESCRIPTION:中国二十四节气；太阳黄经 15°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-04-20@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350420
+SUMMARY:谷雨 | Grain Rain
+DESCRIPTION:中国二十四节气；太阳黄经 30°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-05-05@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350505
+SUMMARY:立夏 | Start of Summer
+DESCRIPTION:中国二十四节气；太阳黄经 45°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-05-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350521
+SUMMARY:小满 | Grain Full
+DESCRIPTION:中国二十四节气；太阳黄经 60°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-06-06@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350606
+SUMMARY:芒种 | Grain in Ear
+DESCRIPTION:中国二十四节气；太阳黄经 75°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-06-21@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350621
+SUMMARY:夏至 | Summer Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 90°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-07-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350707
+SUMMARY:小暑 | Minor Heat
+DESCRIPTION:中国二十四节气；太阳黄经 105°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-07-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350723
+SUMMARY:大暑 | Major Heat
+DESCRIPTION:中国二十四节气；太阳黄经 120°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-08-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350807
+SUMMARY:立秋 | Start of Autumn
+DESCRIPTION:中国二十四节气；太阳黄经 135°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-08-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350823
+SUMMARY:处暑 | Limit of Heat
+DESCRIPTION:中国二十四节气；太阳黄经 150°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-09-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350908
+SUMMARY:白露 | White Dew
+DESCRIPTION:中国二十四节气；太阳黄经 165°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-09-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20350923
+SUMMARY:秋分 | Autumnal Equinox
+DESCRIPTION:中国二十四节气；太阳黄经 180°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-10-08@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20351008
+SUMMARY:寒露 | Cold Dew
+DESCRIPTION:中国二十四节气；太阳黄经 195°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-10-23@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20351023
+SUMMARY:霜降 | Frost's Descent
+DESCRIPTION:中国二十四节气；太阳黄经 210°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-11-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20351107
+SUMMARY:立冬 | Start of Winter
+DESCRIPTION:中国二十四节气；太阳黄经 225°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-11-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20351122
+SUMMARY:小雪 | Minor Snow
+DESCRIPTION:中国二十四节气；太阳黄经 240°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-12-07@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20351207
+SUMMARY:大雪 | Major Snow
+DESCRIPTION:中国二十四节气；太阳黄经 255°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+BEGIN:VEVENT
+UID:calrepo.cn.solar-terms.2035-12-22@calrepo.com
+DTSTAMP:20260725T080000Z
+DTSTART;VALUE=DATE:20351222
+SUMMARY:冬至 | Winter Solstice
+DESCRIPTION:中国二十四节气；太阳黄经 270°；中国标准时间。CalRepo source: SRC-CN-24-SOLAR-TERMS.
+CATEGORIES:中国二十四节气
+END:VEVENT
+END:VCALENDAR
