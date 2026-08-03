@@ -11,6 +11,7 @@ CalRepo is a public, auditable directory of iCalendar subscription sources.
 | Han Buddhist Core Observances | `https://calrepo.com/ical/v1/religion/han-buddhism/zh-CN.ics` | 2025-2035 | Chinese lunar rules |
 | Daoist Core Observances | `https://calrepo.com/ical/v1/religion/taoism/zh-CN.ics` | 2025-2035 | Chinese lunar rules |
 | United Nations Fixed-Date Observances | `https://calrepo.com/ical/v1/global/un-fixed-observances/zh-CN.ics` | 2025-2035 | 17 reviewed fixed Gregorian dates |
+| Catholic Lay Core Calendar | `https://calrepo.com/ical/v1/religion/catholic-lay-core/en.ics` | 2025-2035 | Core solemnities, feasts, and universal saints for lay Catholics |
 | General Roman Calendar | `https://calrepo.com/ical/v1/religion/catholic-general-roman/en.ics` | 2025-2035 | Annual liturgies plus universal fixed observances |
 
 The public-holiday source records statutory base dates only. Its `"(法)"` suffix marks a statutory event. Annual leave spans and adjusted workdays follow the State Council General Office's annual notice and are intentionally not inferred or fabricated.

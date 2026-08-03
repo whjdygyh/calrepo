@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-03 - Website Source Directory Update
+
+- Added the published Catholic Lay Core Calendar to the public website source directory and README.
+- Added its subscription page at `/sources/catholic-lay-core/`, with scope, coverage, maintenance, and coexistence guidance for the complete General Roman Calendar.
+
 ## 2026-07-25 - v1 Religious And UN Sources
 
 - Published Han Buddhist core observances and Daoist core observances for 2025-2035.
