@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "version": "2026-08-07-12",
+  "generated_at": "2026-08-07T13:13:03Z",
+  "items": [
+    {
+      "id": "KON-CONTENT-001",
+      "type": "calendar_knowledge",
+      "language": "zh-CN",
+      "text": "月历给出日子，历法解释日子从哪里来。",
+      "tags": [
+        "历法",
+        "公历"
+      ],
+      "related_feature": "主日历",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "内部原创；已审核",
+      "weight": 10,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-002",
+      "type": "calendar_knowledge",
+      "language": "zh-CN",
+      "text": "副历不是另一份节日提醒；它是同一天的另一种日期表达。",
+      "tags": [
+        "历法",
+        "副历"
+      ],
+      "related_feature": "副历设置",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "内部原创；已审核",
+      "weight": 10,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-003",
+      "type": "calendar_knowledge",
+      "language": "zh-CN",
+      "text": "节气标记太阳的位置，农历月份记录月相的循环。",
+      "tags": [
+        "历法",
+        "节气",
+        "农历"
+      ],
+      "related_feature": "中国二十四节气",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "内部原创；已审核",
+      "weight": 9,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-004",
+      "type": "calendar_knowledge",
+      "language": "zh-CN",
+      "text": "一个公历月跨两个农历月，不是错误，是两套周期自然相遇。",
+      "tags": [
+        "历法",
+        "农历"
+      ],
+      "related_feature": "中国农历",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "内部原创；已审核",
+      "weight": 9,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-005",
+      "type": "festival_knowledge",
+      "language": "zh-CN",
+      "text": "节日源告诉你今天值得记住什么；你决定怎样过这一天。",
+      "tags": [
+        "节日",
+        "日历源"
+      ],
+      "related_feature": "日历源",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "内部原创；已审核",
+      "weight": 10,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-006",
+      "type": "festival_knowledge",
+      "language": "zh-CN",
+      "text": "同名节日也可能因国家、宗教与传统而拥有不同日期和意义。",
+      "tags": [
+        "节日",
+        "文化",
+        "宗教"
+      ],
+      "related_feature": "日历源",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "内部原创；已审核",
+      "weight": 8,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-007",
+      "type": "festival_knowledge",
+      "language": "zh-CN",
+      "text": "日历上的提醒不是催促，它是在替生活保留坐标。",
+      "tags": [
+        "节日",
+        "生活"
+      ],
+      "related_feature": "主日历",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "内部原创；已审核",
+      "weight": 8,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-008",
+      "type": "usage_tip",
+      "language": "zh-CN",
+      "text": "启用日历源后，节日会在后台生成；首次同步请稍等片刻。",
+      "tags": [
+        "技巧",
+        "日历源",
+        "同步"
+      ],
+      "related_feature": "日历源",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "功能事实；已审核",
+      "weight": 12,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-009",
+      "type": "usage_tip",
+      "language": "zh-CN",
+      "text": "副历用于读日期，日历源用于收节日；分清它们，设置会更轻松。",
+      "tags": [
+        "技巧",
+        "副历",
+        "日历源"
+      ],
+      "related_feature": "副历设置 / 日历源",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "功能事实；已审核",
+      "weight": 11,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-010",
+      "type": "usage_tip",
+      "language": "zh-CN",
+      "text": "生活页记录的不是任务，而是那些值得被天数记住的事。",
+      "tags": [
+        "技巧",
+        "生活"
+      ],
+      "related_feature": "生活",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "功能事实；已审核",
+      "weight": 9,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-011",
+      "type": "usage_tip",
+      "language": "zh-CN",
+      "text": "项目和会员信息只需记一次，下一次打开不必再翻聊天记录。",
+      "tags": [
+        "技巧",
+        "项目",
+        "会员"
+      ],
+      "related_feature": "项目 / 会员",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "功能事实；已审核",
+      "weight": 8,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    },
+    {
+      "id": "KON-CONTENT-012",
+      "type": "usage_tip",
+      "language": "zh-CN",
+      "text": "切换副历时，公历始终是主历；不同的是你选择如何理解今天。",
+      "tags": [
+        "技巧",
+        "副历",
+        "公历"
+      ],
+      "related_feature": "副历设置",
+      "author": "KeepOn 内容库原创",
+      "source_url": "",
+      "trust_status": "功能事实；已审核",
+      "weight": 9,
+      "starts_at": "",
+      "ends_at": "",
+      "version": 1
+    }
+  ]
+}

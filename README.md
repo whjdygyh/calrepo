@@ -19,11 +19,16 @@ The public-holiday source records statutory base dates only. Its `"(法)"` suffi
 ## Editorial Data
 
 - Baseline workbook: `data/seed/calendar-rules.xlsx`
+- KeepOn information-strip content workbook: `data/seed/keepon-content-library.xlsx`
 - Workbook contract: `docs/design/calendar-rules-workbook.md`
 - China completeness audit: `docs/analysis/china-traditional-public-calendar-completeness-audit-2026-07-25.md`
 - Maintenance manual: `docs/design/self-built-calendar-source-maintenance.md`
 
 The Excel workbook is the editorial baseline. The two user-created pivot sheets remain part of that workbook and must not be removed.
+
+The KeepOn content workbook is a separate editorial baseline for the fixed application information strip. It currently contains only reviewed calendar knowledge, festival knowledge, and usage tips. It does not contain user data, cloud-sync data, or runtime calendar-cache records.
+
+Its public runtime manifest is `https://calrepo.com/keepon/content/latest.json`. Export it from the workbook with `python scripts/export-keepon-content.py`; only reviewed and published rows are included.
 
 ## Generation
 
