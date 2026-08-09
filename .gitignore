@@ -2,4 +2,5 @@ tmp/
 *.inspect.ndjson
 scripts/__pycache__/
 keepon/updates/*.zip
+keepon/updates/*.zip.sha256
 keepon/updates/*.exe
