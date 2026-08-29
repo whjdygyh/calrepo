@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.4.16",
+  "version": "1.5.0",
   "channel": "stable",
-  "asset": "https://downloads.calrepo.com/KeepOn-1.4.16-win-x64.zip",
-  "sha256": "e3fbd32709781990b458ac8a173b387793977e860f088e04f1c5859c03fa94b6",
-  "size": 52017995
+  "asset": "https://downloads.calrepo.com/KeepOn-1.5.0-win-x64.zip",
+  "sha256": "d5e2b5dd59e228189672706f1b730ea7851ea920781435a8c0d1a1d09b1911a1",
+  "size": 54181617
 }
